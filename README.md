@@ -10,3 +10,5 @@ have certain abilities that will change your gameplay experience and help you su
 I used dictionaries to keep track of the characters stats as they change throughout the game. The day function runs 
 8 times for how many days there are, and inside of that is where all of the functions that have randomized chances 
 of effecting your team are called. 
+
+Note: You will need python and a few modules of it installed, including pyTextColor.
