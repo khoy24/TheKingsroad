@@ -1,3 +1,5 @@
+#DESCRIPTION#
+
 The game functions similarly to an oregon trail type game, but themed around game of thrones. You create a
 team of 4 people and try to survive the 8 day long journey. There are functions that have chances of being applied 
 and killing members of the team. I used a lot of random.randint() for this. There is also a shop 
