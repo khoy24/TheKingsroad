@@ -1,5 +1,3 @@
-#Kaitlyn Hoyme   12-9-2022
-#Assignment 7    
 
 #The game functions similarly to an oregon trail type game, but themed around game of thrones. You create a
 #team of 4 people and try to survive the 8 day long journey. There are functions that have chances of being 
